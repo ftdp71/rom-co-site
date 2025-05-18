@@ -1,0 +1,64 @@
+/* Déclaration du Body */
+body{
+    /* Changer la couleur de l'arrière plan */
+   background-color: rgb(207, 203, 197);
+}
+/* Déclaration d'une classe */
+.titre {
+    /* Centrer le texte */
+     text-align: center; 
+}
+
+
+
+.titre_somme{
+    text-align: center;
+    background-color: bisque;
+}
+ 
+.input_somme{
+    text-align: center;
+    width: 50%;
+    height: 75%;
+    border-radius: 2%;
+}
+.button_somme{
+    background-color: darkblue;
+    width: 75px;
+    height: 10O0px;
+    color: beige;
+}
+
+/* 
+.titre_différence{
+       text-align: center;
+       background-color: bisque;
+} */
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0%;
+    background-color: black;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+.titre_différence{
+    text-align: center;
+    background-color: bisque;
+}
+.titre_produit{
+    text-align: center;
+    background-color: bisque;
+}
+.titre_division{
+    text-align: center;
+    background-color: bisque;
+}
